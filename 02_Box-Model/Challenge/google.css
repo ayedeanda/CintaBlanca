@@ -1,0 +1,35 @@
+* { background-color: white;
+
+}
+
+img {
+  
+    width: 250px;
+    margin-top: 150px;
+    margin-left: 505px;
+   margin-inline: 200px;
+ 
+}
+
+.contenedor {
+margin-left: 1050px;
+}
+
+.centro
+{
+margin-left: 540px;
+
+margin-bottom: 35px;
+
+
+    font-size:10px;font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; font-weight: 300;
+    padding:10px;
+    height: 40%;
+
+
+}
+
+.abajo
+{
+    margin-left: 490px;
+}

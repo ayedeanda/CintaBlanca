@@ -1,0 +1,78 @@
+body{
+    display: flex;
+    justify-content: space-evenly;
+    border: solid 4px black;
+    height: 800px;
+    align-items: center;
+   
+}
+    .padre{
+width: 600px;
+height: 600px;
+border:solid 2px black;
+display: flex;
+justify-content: space-around;
+align-items: center;
+flex-direction: column;
+ }
+
+
+.hijos1
+{
+    width: 150px;
+    height: 150px;
+    border: 6px solid red;
+    display: flex;
+    
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+ 
+  }
+
+  .padre2{
+    width: 600px;
+    height: 600px;
+    border:solid 2px black;
+    display: flex;
+
+
+    align-items: center;
+    justify-content: space-around;
+    
+  }
+
+  .hijos2
+  {
+    width: 150px;
+    height: 150px;
+    border: 6px solid red; 
+display: flex; 
+justify-content: space-around;
+align-items: center;
+
+}
+   
+.mijo {
+    width: 30px;
+    height: 30px;
+    border: 3px solid greenyellow;
+    
+
+ }
+
+.mijo1 {
+    width: 30px;
+    height: 30px;
+    border: 3px solid greenyellow;
+ 
+
+}
+.mijos2{ 
+    width: 30px;
+    height: 30px;
+    border: 3px solid greenyellow;
+    
+
+}
+

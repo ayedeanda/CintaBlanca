@@ -1,0 +1,43 @@
+.caja_MAYOR {
+width: 400px;
+height: 670px;
+border:solid 4px black;
+background-color: darkblue;
+display: flex;
+flex-direction: column;
+justify-content: space-around;
+
+
+}
+.caja_arriba
+{
+    width: 1500px;
+    height: 150px;
+    border:solid 4px black;
+    background-color: red;
+display: flex;
+}
+
+.cajas_izq
+{ 
+
+    width: 300px;
+    height: 300px;
+    border:solid 4px black;
+    background-color: white;
+    display: flex;
+    
+}
+
+.caja_abajo
+
+{
+    width: 1500px;
+    height: 150px;
+    border:solid 4px black;
+    background-color: red;
+display: flex;
+
+
+
+;}

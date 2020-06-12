@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@300&display=swap');
+body{
+    background-color: palegoldenrod;
+}
+h1 {
+   
+    color: orchid;
+    
+    font-size: 2cm;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
+.my-image {
+    width: 800px;
+    height: 400px;
+    align-items: center;
+    justify-content: space-around;
+    
+    
+}
+p{
+
+    font-family: 'Tajawal', sans-serif;
+}
+ul{
+    font-family: 'Tajawal', sans-serif;
+
+}
+
+h5 {
+    font-family: 'Bebas Neue', cursive;
+}
+
+.my-icon {
+color: white;
+font-size: 50px;
+
+}
